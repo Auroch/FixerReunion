@@ -2,6 +2,10 @@
 
 Solution pour fixer des réunions en fonction des disponibilités CalDAV et des préférences utilisateurs.
 
+## Licence
+
+Ce projet est distribué sous licence **GNU Affero General Public License v3.0**. Le texte complet se trouve dans le fichier [LICENSE](LICENSE).
+
 ## Prérequis
 
 - **Python ≥3.10** avec `pip`
