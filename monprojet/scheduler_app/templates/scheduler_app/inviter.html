@@ -1,0 +1,7 @@
+<h1>Inviter des participants</h1>
+<p>Réunion: {{ demande.titre }}</p>
+<form method="post">
+  {% csrf_token %}
+  <!-- Placeholder for participant selection -->
+  <button type="submit">Envoyer les invitations</button>
+</form>
